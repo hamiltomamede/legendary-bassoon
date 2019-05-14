@@ -35,3 +35,10 @@ This is best team in the world you could ever find
 - Ruby on Rails
 - Kendo
 - JS 
+
+# Meetings
+
+### Scrum meetings
+
+- [refinement meeting](refinement.md)
+- [Retrospective](retrospective.md)
