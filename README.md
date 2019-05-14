@@ -1,7 +1,6 @@
-# DreamTeam
+## DreamTeam
 This is best team in the world you could ever find
 
-# Teams
 ### Leaders Team
 - Nilton
 - Beatriz
@@ -36,7 +35,8 @@ This is best team in the world you could ever find
 - PowerBI (APIs REST)
 
 ### Web Stack
-
 - Ruby on Rails
-- Kendo
-- JS 
+- Kendo UI Telerik
+- HTML
+- CSS
+- JS  
