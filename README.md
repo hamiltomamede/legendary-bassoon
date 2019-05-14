@@ -27,3 +27,13 @@ This is best team in the world you could ever find
 ### Quality Team
 - Alexandre
 - Hamilton
+
+
+### Mobile Stack
+- Kotlin
+-- Anvil
+-- ObjectBox
+-- Retrofit2
+-- Parsec
+- Redux
+----> Git <----
