@@ -1,6 +1,6 @@
 # Daily Meeting
 
-Basic every day Scrum meeting to show what each developer has done on the day before and also what each developer will be doing on the current day.
+Basic every day scrum meeting where each developer can tell the rest of the team what he/she has done on the day before and also what they will be doing on the current day.
 
 ### Sprint Day this meeting will occur
 
