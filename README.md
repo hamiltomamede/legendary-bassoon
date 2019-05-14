@@ -1,4 +1,4 @@
-## DreamTeam
+# DreamTeam
 This is best team in the world you could ever find
 
 ### Leaders Team
@@ -28,7 +28,7 @@ This is best team in the world you could ever find
 - Alexandre
 - Hamilton
 
-## Stacks
+# Stacks
 
 ## Web Stack
 
