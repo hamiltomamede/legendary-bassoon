@@ -27,3 +27,12 @@ This is best team in the world you could ever find
 ### Quality Team
 - Alexandre
 - Hamilton
+
+## Stacks
+
+## Web Stack
+
+- Ruby on Rails
+- Kendo
+- JS
+- 
