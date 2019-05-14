@@ -29,7 +29,7 @@ This is best team in the world you could ever find
 - Alexandre
 - Hamilton
 
-# Stacks
+<<<<<<< HEAD
 
 ### Mobile Stack
 - Kotlin
@@ -39,13 +39,17 @@ This is best team in the world you could ever find
 - Parsec
 - Redux
 
+# Vim: O melhor do mundo
+=======
+# Stacks
+
 ### BI Stack
 - Telerik Report Server
 - PowerBI (APIs REST)
 
 ### Web Stack
+
 - Ruby on Rails
 - Kendo
 - JS 
-
-# Vim: O melhor do mundo
+>>>>>>> upstream/master
