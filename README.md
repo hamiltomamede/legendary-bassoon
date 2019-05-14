@@ -33,6 +33,5 @@ This is best team in the world you could ever find
 ### Web Stack
 - Ruby on Rails
 - Kendo UI Telerik
-- Git
 - HTML
 - CSS  
