@@ -2,28 +2,28 @@
 This is best team in the world you could ever find
 
 ### Leaders Team
-Nilton
-Beatriz
-Tiago
+- Nilton
+- Beatriz
+- Tiago
 
 ### Web Team
-Beatriz
-Victor
-Marino
-Rafael
-Mateus
-Ian
+- Beatriz
+- Victor
+- Marino
+- Rafael
+- Mateus
+- Ian
 
 ### Mobile Team
-Tiago
-Flávio
-Fábio
-Christian
-Diego
+- Tiago
+- Flávio
+- Fábio
+- Christian
+- Diego
 
 ### BI Team
-Marivaldo
+- Marivaldo
 
 ### Quality Team
-Alexandre
-Hamilton
+- Alexandre
+- Hamilton
