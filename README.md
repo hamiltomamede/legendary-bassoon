@@ -1,6 +1,7 @@
 # DreamTeam
 This is best team in the world you could ever find
 
+# Teams
 ### Leaders Team
 - Nilton
 - Beatriz
@@ -29,6 +30,10 @@ This is best team in the world you could ever find
 - Hamilton
 
 # Stacks
+
+### BI Stack
+- Telerik Report Server
+- PowerBI (APIs REST)
 
 ### Web Stack
 
