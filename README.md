@@ -14,7 +14,7 @@ This is best team in the world you could ever find
 - Mateus
 - Ian
 
-### Mobile Team ACTIVATED
+### Mobile Team
 - Tiago
 - Flávio
 - Fábio
@@ -36,5 +36,3 @@ This is best team in the world you could ever find
 - Anvil
 - Roboelectric / Junit
 - Retrofit2
-
-
