@@ -1,6 +1,7 @@
 # DreamTeam
 This is best team in the world you could ever find
 
+# Teams
 ### Leaders Team
 - Nilton
 - Beatriz
@@ -30,18 +31,14 @@ This is best team in the world you could ever find
 
 # Stacks
 
-### Mobile Stack
-- Kotlin
-- Reducer (Redukt)
-- Anvil
-- Roboelectric / Junit
-- Retrofit2
-
 ### BI Stack
 - Telerik Report Server
 - PowerBI (APIs REST)
 
 ### Web Stack
 - Ruby on Rails
+- Kendo UI Telerik
+- HTML
+- CSS 
 - Kendo
 - JS 
