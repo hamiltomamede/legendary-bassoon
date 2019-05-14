@@ -1,4 +1,9 @@
-Retrospective Meeting
+# Retrospective Meeting
+When the sprint finishes.
 
-Date: 05/15/2019
-Time: 03:00PM
+### What time?
+10:00AM
+
+### How long?
+45 minutes
+

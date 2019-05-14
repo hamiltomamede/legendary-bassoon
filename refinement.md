@@ -1,4 +1,9 @@
-Refinement Meeting
+# Refinement Meeting
+Scrum meeting where the team refine the histories.
 
-Date: 05/16/2019
-Time: 01:00PM
+### What time?
+01:00PM
+
+### How long?
+Depends of the histories
+
