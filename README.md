@@ -28,10 +28,15 @@ This is best team in the world you could ever find
 - Alexandre
 - Hamilton
 
-#Stacks
+# Stacks
+
+### BI Stack
+- Telerik Report Server
+- PowerBI (APIs REST)
 
 ### Web Stack
 - Ruby on Rails
 - Kendo UI Telerik
 - HTML
-- CSS  
+- CSS
+- JS  
