@@ -45,7 +45,5 @@ This is best team in the world you could ever find
 # Reuniões
 
 ### Reuniões do Scrum
-- Daily Scrum 09:00AM
-- Refinement Meeting 11:30AM
-- Concept Meeting 02:00PM
-- Retrospective Meeting 05:00PM
+- [Daily Scrum](daily.md)
+- [Concept Meeting](concept.md)
