@@ -30,9 +30,8 @@ This is best team in the world you could ever find
 
 # Stacks
 
-## Web Stack
+### Web Stack
 
 - Ruby on Rails
 - Kendo
-- JS
-- 
+- JS 
