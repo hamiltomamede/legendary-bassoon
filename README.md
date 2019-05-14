@@ -30,6 +30,14 @@ This is best team in the world you could ever find
 
 # Stacks
 
+### Mobile Stack
+- Kotlin
+- Anvil
+- ObjectBox
+- Retrofit2
+- Parsec
+- Redux
+
 ### BI Stack
 - Telerik Report Server
 - PowerBI (APIs REST)
@@ -40,3 +48,5 @@ This is best team in the world you could ever find
 - HTML
 - CSS
 - JS  
+
+# Vim: O melhor do mundo
