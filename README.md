@@ -36,5 +36,4 @@ This is best team in the world you could ever find
 -- Retrofit2
 -- Parsec
 - Redux
-----> Git <----
 # Vim: O melhor do mundo
