@@ -48,5 +48,3 @@ This is best team in the world you could ever find
 - HTML
 - CSS
 - JS  
-
-# Vim: O melhor do mundo
