@@ -5,7 +5,7 @@ This is best team in the world you could ever find
 - [Team](team.md)
 
 # Stacks
-- [stacks](stacks.md)
+- [Stack Info](stacks.md)
 
 ## Reuniões do Scrum
 - [Daily Scrum](daily.md)
