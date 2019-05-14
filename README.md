@@ -30,15 +30,29 @@ This is best team in the world you could ever find
 
 # Stacks
 
-### Web Stack
+### Mobile Stack
+- Kotlin
+- Anvil
+- ObjectBox
+- Retrofit2
+- Parsec
+- Redux
 
+### BI Stack
+- Telerik Report Server
+- PowerBI (APIs REST)
+
+### Web Stack
 - Ruby on Rails
-- Kendo
-- JS 
+- Kendo UI Telerik
+- HTML
+- CSS
+- JS  
 
 # Meetings
 
 ### Scrum meetings
-
-- [refinement meeting](refinement.md)
+- [Refinement meeting](refinement.md)
 - [Retrospective](retrospective.md)
+- [Daily Scrum](daily.md)
+- [Concept Meeting](concept.md)
