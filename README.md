@@ -1,4 +1,4 @@
-## DreamTeam
+# DreamTeam
 This is best team in the world you could ever find
 
 ### Leaders Team
@@ -36,3 +36,12 @@ This is best team in the world you could ever find
 - Anvil
 - Roboelectric / Junit
 - Retrofit2
+
+### BI Stack
+- Telerik Report Server
+- PowerBI (APIs REST)
+
+### Web Stack
+- Ruby on Rails
+- Kendo
+- JS 
