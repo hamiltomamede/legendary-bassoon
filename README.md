@@ -35,3 +35,8 @@ This is best team in the world you could ever find
 - Telerik Report Server
 - PowerBI (APIs REST)
 
+### Web Stack
+
+- Ruby on Rails
+- Kendo
+- JS 
