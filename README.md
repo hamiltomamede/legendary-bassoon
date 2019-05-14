@@ -1,4 +1,4 @@
-## DreamTeam
+# DreamTeam
 This is best team in the world you could ever find
 
 # Team
@@ -7,8 +7,8 @@ This is best team in the world you could ever find
 # Stacks
 - [stacks](stacks.md)
 
-# Reuniões
-
-### Reuniões do Scrum
+## Reuniões do Scrum
 - [Daily Scrum](daily.md)
 - [Concept Meeting](planning.md)
+
+>Vim: O melhor do mundo
