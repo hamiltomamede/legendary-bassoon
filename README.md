@@ -14,7 +14,7 @@ This is best team in the world you could ever find
 - Mateus
 - Ian
 
-### Mobile Team
+### Mobile Team ACTIVATED
 - Tiago
 - Flávio
 - Fábio
@@ -27,3 +27,14 @@ This is best team in the world you could ever find
 ### Quality Team
 - Alexandre
 - Hamilton
+
+# Stacks
+
+### Mobile Stack
+- Kotlin
+- Reducer (Redukt)
+- Anvil
+- Roboelectric / Junit
+- Retrofit2
+
+
