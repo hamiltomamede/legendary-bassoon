@@ -11,4 +11,4 @@ This is best team in the world you could ever find
 
 ### Reuniões do Scrum
 - [Daily Scrum](daily.md)
-- [Concept Meeting](concept.md)
+- [Concept Meeting](planning.md)
