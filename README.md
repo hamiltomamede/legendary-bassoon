@@ -31,9 +31,10 @@ This is best team in the world you could ever find
 
 ### Mobile Stack
 - Kotlin
--- Anvil
--- ObjectBox
--- Retrofit2
--- Parsec
+- Anvil
+- ObjectBox
+- Retrofit2
+- Parsec
 - Redux
+
 # Vim: O melhor do mundo
